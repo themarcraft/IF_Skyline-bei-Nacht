@@ -1,18 +1,17 @@
 
 #		Skyline bei Nacht
 
-##			Bastian
+##			Johann
 ####	Himmel
 - Hintergrund mit Farbverlauf
 - Sterne
-##			Johann
+##			Marvin
 ####	Park
 - Bäume
 - Weg
 ####	Wasser
 - Licht Reflektion
 - Wellen
-##			Marvin
 			
 #### 	Häuser
 - Häuser
